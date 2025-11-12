@@ -1,0 +1,27 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output and packages
+output/
+install/
+*.nupkg
+packages/
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs, temp
+*.log
+*.cache
+
+# Revit / add-in artifacts
+*.addin	

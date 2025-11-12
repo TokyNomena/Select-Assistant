@@ -1,0 +1,15 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>SelectionSet</Name>
+        <Assembly>SelectionSet\SelectionSet.dll</Assembly>
+        <AddInId>46A63C4C-F8DB-46E3-A91F-EE789E530564</AddInId>
+        <FullClassName>SelectionSet.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail>tokynom13@gmail.com</VendorEmail>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>SelectionSet</ContextName>
+    </ManifestSettings>
+</RevitAddIns>
